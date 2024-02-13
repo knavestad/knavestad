@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knavestad
 - 👀 I’m interested in statistics and knitting!
-- 🌱 I’m currently learning RMarkdown!
+- 🌱 I’m currently working with RMarkdown
 - 💞️ I’m looking to collaborate on ravelry API 
 
 
